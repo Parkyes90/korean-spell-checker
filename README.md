@@ -9,5 +9,5 @@ pipenv install
 ```
 
 # ref
-https://github.com/spellcheck-ko/hunspell-dict-ko
+https://github.com/spellcheck-ko/hunspell-dict-ko  
 https://github.com/MSeal/cython_hunspell
